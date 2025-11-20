@@ -1,0 +1,236 @@
+Starting CAP Project Generator...
+Using @sap/cds-dk [9.4.3] from [/extbin/globals/pnpm/5/.pnpm/@sap+cds-dk@9.4.3_@eslint+js@9.39.1/node_modules/@sap/cds-dk]
+Using @sap/generator-cap-project [2.0.2] from [/extbin/globals/pnpm/5/.pnpm/@sap+generator-cap-project@2.0.2_encoding@0.1.13_mem-fs@2.1.0_yeoman-environment@3.19.3_@types+node@24.10.1_/node_modules/@sap/generator-cap-project]
+Using root path [/home/user/projects]
+
+Creating project with connectivity, destination, hana, mta, nodejs, pipeline, sample, xsuaa
+Done creating project sha1
+
+
+
+find samples on https://github.com/capire/samples
+learn about next steps at https://cap.cloud.sap
+
+run npm update --package-lock-only to freeze dependencies
+for information on project "Piper" and its pipelines see https://www.project-piper.io/
+
+Installing dependencies...
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.362Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.363Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.366Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.367Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.381Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.382Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.439Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.439Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.440Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.441Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.442Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.442Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.444Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.444Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.445Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.445Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.477Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.477Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.479Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.479Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.480Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.481Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.495Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.495Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.497Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.497Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.499Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.499Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.500Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.500Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.501Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.501Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.502Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.502Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"sap.common.Languages\"}",
+  "time": "2025-11-20T11:15:33.503Z"
+}
+{
+  "label": "vscode-wing-storyboard",
+  "level": "warn",
+  "message": "Failed to get entity namespace for link: {\"linkType\":\"DEPENDS_ON\",\"type\":\"com.sap.cds/Entity\",\"ref\":\"CatalogService.Books\"}",
+  "time": "2025-11-20T11:15:33.503Z"
+}
+SyntaxError: Unterminated string in JSON at position 512 (line 21 column 6)
+
+Finished installing dependencies... project is ready to use.
